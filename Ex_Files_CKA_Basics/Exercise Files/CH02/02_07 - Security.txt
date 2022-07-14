@@ -1,0 +1,17 @@
+https://kubernetes.io/docs/concepts/policy/pod-security-policy/
+
+https://docs.projectcalico.org/security/kubernetes-network-policy
+
+For more information -
+Managing TLS in the cluster
+https://kubernetes.io/docs/tasks/tls/managing-tls-in-a-cluster/
+
+https://kubernetes.io/docs/concepts/containers/images/
+
+https://kubernetes.io/docs/tasks/configure-pod-container/security-context/
+
+kubectl create secret
+kubectl get secrets
+kubectl describe secrets
+
+https://kubernetes.io/docs/concepts/configuration/secret/

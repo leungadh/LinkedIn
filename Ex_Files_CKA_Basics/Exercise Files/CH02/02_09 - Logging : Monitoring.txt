@@ -1,0 +1,7 @@
+https://kubernetes.io/docs/tasks/debug-application-cluster/monitor-node-health/
+
+https://github.com/kubernetes-sigs/metrics-server
+
+https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/
+
+
