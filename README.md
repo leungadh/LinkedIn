@@ -8,6 +8,6 @@
 
 ## If login is required, 
 - Login: leungadh
-- Password: "This is the 'upload code' authentication token"
+- Password:  Use the 'github upload code' authentication token
 
 
